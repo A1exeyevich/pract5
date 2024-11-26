@@ -1,0 +1,7 @@
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\bin\Debug\StringTemaPractic.exe.config
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\bin\Debug\StringTemaPractic.exe
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\bin\Debug\StringTemaPractic.pdb
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\obj\Debug\StringTemaPractic.csproj.AssemblyReference.cache
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\obj\Debug\StringTemaPractic.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\obj\Debug\StringTemaPractic.exe
+C:\Users\Алексей\Documents\GitHub\pract4\StringTemaPractic\obj\Debug\StringTemaPractic.pdb
